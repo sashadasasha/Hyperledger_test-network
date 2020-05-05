@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8385201f-bbfd-4816-8c11-4ed8f1b6e1f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../CODEOWNERS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../MAINTAINERS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/docker-compose-simple.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/msp/admincerts/admincert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/msp/cacerts/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/msp/keystore/key.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/msp/signcerts/peer.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/msp/tlscacerts/tlsroot.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/msp/tlsintermediatecerts/tlsintermediate.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/myc.tx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/orderer.block" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chaincode-docker-devmode/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abac/go/abac.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abac/go/abac_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abac/go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abac/go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/go/abstore.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/java/src/main/java/org/hyperledger/fabric-samples/ABstore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/javascript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/javascript/abstore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abstore/javascript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/chaincode.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/fabcar.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../external/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../go/fabcar.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/org/hyperledger/fabric/samples/fabcar/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/org/hyperledger/fabric/samples/fabcar/CarQueryResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/org/hyperledger/fabric/samples/fabcar/FabCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/lib/fabcar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javascript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/src/car.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/src/fabcar.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typescript/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/go/META-INF/statedb/couchdb/indexes/indexOwner.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/go/marbles_chaincode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/javascript/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/javascript/META-INF/statedb/couchdb/indexes/indexOwner.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/javascript/marbles_chaincode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02/javascript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02_private/collections_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02_private/go/META-INF/statedb/couchdb/collections/collectionMarbles/indexes/indexOwner.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02_private/go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02_private/go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../marbles02_private/go/marbles_chaincode_private.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sacc/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sacc/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sacc/sacc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sacc/sacc_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/azure-pipelines.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/scripts/pullFabricImages.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/commercial-paper/azure-pipelines-go.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/commercial-paper/azure-pipelines-java.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/commercial-paper/azure-pipelines-javascript.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/fabcar/azure-pipelines-go.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/fabcar/azure-pipelines-java.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/fabcar/azure-pipelines-javascript.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/fabcar/azure-pipelines-typescript.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/install-deps.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ci/templates/test-network/azure-pipelines.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/network-clean.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/network-starter.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/src/org/digibank/AddToWallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/src/org/digibank/Buy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/src/org/digibank/Redeem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/src/org/papernet/CommercialPaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application-java/src/org/papernet/ledgerapi/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/addToWallet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/buy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/enrollUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/application/redeem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/configuration/cli/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/configuration/cli/monitordocker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/paper.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/paper_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/papercontext.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/papercontext_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/papercontract.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/papercontract_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/paperlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/commercial-paper/paperlist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/ledger-api/state.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/ledger-api/statelist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-go/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/shadow-build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/CommercialPaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/CommercialPaperContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/CommercialPaperContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/PaperList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/ledgerapi/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/ledgerapi/StateDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/ledgerapi/StateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract-java/src/main/java/org/example/ledgerapi/impl/StateListImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/ledger-api/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/ledger-api/statelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/lib/paper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/lib/papercontract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/lib/paperlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/contract/test/contract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/digibank.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/digibank/gateway/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/src/org/magnetocorp/AddToWallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/src/org/magnetocorp/Issue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/src/org/papernet/CommercialPaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application-java/src/org/papernet/ledgerapi/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application/addToWallet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application/enrollUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application/issue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/application/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/configuration/cli/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/configuration/cli/monitordocker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/paper.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/paper_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/papercontext.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/papercontext_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/papercontract.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/papercontract_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/paperlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/commercial-paper/paperlist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/ledger-api/state.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/ledger-api/statelist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-go/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/CommercialPaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/CommercialPaperContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/CommercialPaperContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/PaperList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/ledgerapi/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/ledgerapi/StateDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/ledgerapi/StateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract-java/src/main/java/org/example/ledgerapi/impl/StateListImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/ledger-api/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/ledger-api/statelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/lib/paper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/lib/papercontract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/lib/paperlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/contract/test/contract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/gateway/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/magnetocorp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../commercial-paper/organization/magnetocorp/t.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../fabcar/java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../fabcar/java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../fabcar/java/src/main/java/org/example/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../fabcar/java/src/main/java/org/example/ClientApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/base/docker-compose-base.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/base/peer-base.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/byfn.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/ccp-generate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/ccp-template.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/ccp-template.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/channel-artifacts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/configtx.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/crypto-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-ca.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-cli.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-couch-org3.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-couch.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-e2e-template.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-etcdraft2.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/docker-compose-org3.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/eyfn.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/org3-artifacts/configtx.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/org3-artifacts/org3-crypto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/scripts/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/scripts/step1org3.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/scripts/step2org3.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/scripts/testorg3.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/scripts/upgrade_to_v14.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first-network/scripts/utils.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/chaincode/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/chaincode/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/chaincode/high-throughput.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/networkDown.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/approve-commit-chaincode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/check-commit-readiness.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/del-traditional.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/delete-invoke.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/get-invoke.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/get-traditional.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/install-chaincode.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/many-updates-traditional.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/many-updates.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/prune-invoke.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/setenv.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/scripts/update-invoke.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../high-throughput/startFabric.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/chaincode/chaincode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/chaincode/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/chaincode/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/configtx.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/crypto-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/network.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/scripts/check-commit-readiness.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interest_rate_swaps/network/scripts/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/addMarbles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/blockEventListener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/blockProcessing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/couchdbutil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/deleteMarble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/enrollAdmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/network-clean.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/registerUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/startFabric.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../off_chain_data/transferMarble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../test-network/scripts/deployCC.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../test-network/scripts/deployCC.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1bTg739DSIuqkWptOQAZIJK97AK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8385201f-bbfd-4816-8c11-4ed8f1b6e1f7" name="Default Changelist" comment="" />
+      <created>1588661326278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588661326278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="345" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588663997241">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="713" y="345" width="525" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1588663997241" />
+    <state x="473" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1588664199588">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="473" y="130" width="1024" height="845" key="SettingsEditor/61.27.1859.1053@61.27.1859.1053" timestamp="1588664199588" />
+  </component>
+</project>
